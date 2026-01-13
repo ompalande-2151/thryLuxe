@@ -165,7 +165,7 @@ npm run dev
 
 ## 🧑‍💻 Author
 
-> Sandip Sarode
+> Om palande
 
 ---
 
