@@ -186,4 +186,4 @@ This project is licensed under [MIT License](LICENSE) — feel free to use and m
 ## 📣 Contact
 
 For feedback, bugs, or contributions:
-📧 Email: [sandiipssarode@gmail.com]
+📧 Email: ompalande2151@gmail.com
