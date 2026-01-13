@@ -72,7 +72,7 @@ thryLuxe/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/thryLuxe.git
+ https://github.com/ompalande-2151/thryLuxe.git
 cd thryLuxe
 ```
 
